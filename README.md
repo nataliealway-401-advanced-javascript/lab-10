@@ -6,7 +6,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/nataliealway-401-advanced-javascript/lab-10/pull/1)
-* [travis](https://www.travis-ci.com/nataliealway-401-advanced-javascript/testing-lab10)
+* [travis](https://www.travis-ci.com/nataliealway-401-advanced-javascript/lab-10)
 * [Backend](https://lab10-api-server.herokuapp.com/)
 
 
